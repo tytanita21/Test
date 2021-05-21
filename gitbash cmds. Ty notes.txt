@@ -1,0 +1,45 @@
+ls
+cd
+git init
+get remote add origin "github link"
+git remote -v
+git add .
+git commit -m "My commit comment"
+git push origin master
+
+get help
+---
+https://github.com/tytanita21/Test.git
+
+C:\Users\ttanita\Documents\ForGitBash
+
+5.21.21 test.txt
+
+Need double quotes
+---
+This is on my work computer. 
+This is all you really need to know at this point for GitBash:
+
+ls
+-This lists out what is in the current directory
+
+cd
+-This is how to change a directory
+cd "C:\Users\ttanita\Documents\ForGitBash"
+
+git remote add origin "https://github.com/tytanita21/Test.git"
+-Put in the link of the github repo you want.
+
+git remote -v
+-This taps into the github repo.
+
+git add .
+-This does all the files
+git add "5.21.21 test.txt"
+-This does a single file.
+
+git commit -m "This is my first commit"
+-You can put your commit message here.
+
+git push origin master
+-This will execute the push to the github repo.
