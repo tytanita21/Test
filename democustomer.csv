@@ -1,0 +1,11 @@
+Order_ID,Quantity,Make,Model,Price,CPU_ID,Customer_ID
+ga124,14,Google,Pixel ,144,i-0db5e5e4af2bd0772,23
+rj211,11,Nokia,N97,164,i-0dd550b7fbd9ae483,21
+pa355,15,LG,Viewty,37,i-0a64cd90fd5757c27,87
+va434,14,Samsung,E1100,85,i-0a64cd90fd5757c27,24
+kb514,14,Apple,iPhone 5,179,i-0dd550b7fbd9ae483,21
+rz615,15,Motorola,RAZR V3,168,i-0a64cd90fd5757c27,21
+ea745,15,Samsung,Galaxy S4,74,i-0dd550b7fbd9ae483,51
+yj822,12,Apple,iPhone X,102,i-0a64cd90fd5757c27,23
+va935,15,Apple,iPhone 4S,200,i-0a64cd90fd5757c27,24
+yt1032,12,Motorola,StarTAC,171,i-0db5e5e4af2bd0772,24
